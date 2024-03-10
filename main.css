@@ -1,0 +1,25 @@
+.carousel-item img{
+  margin: auto;
+}
+
+#meu-carousel{
+  margin: auto;
+}
+
+.bg-renner-red{
+  background-color: rgb(185, 1, 35);
+  color: white;
+}
+
+.bg-card{
+  background-color: rgba(185, 1, 35, 0.8);
+  color: white;
+}
+
+button.nav-link:hover h3{
+  color: white;
+}
+
+.active h3{
+  color: red;
+}
